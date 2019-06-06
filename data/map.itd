@@ -1,0 +1,19 @@
+@ITD 1
+# Tower Defense Chassignet Gaillot
+carte ./doc/map1.ppm
+chemin 198 156 108
+noeud 0 0 254
+construct 255 255 255
+in 254 0 0
+out 58 181 74
+10
+0 2 195 175
+1 1 15 25 2
+2 3 55 25 3
+3 4 55 95 4 7
+4 3 55 165 5
+5 3 105 165 7
+6 3 105 45 8
+7 4 105 95 6
+8 3 165 45 9
+9 3 165 175 0
